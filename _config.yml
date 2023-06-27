@@ -13,3 +13,6 @@ callouts:
  note:
     title: Practice!
     color: green 
+ delete:
+    title: Example
+    color: yellow 
