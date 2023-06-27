@@ -5,3 +5,11 @@ theme: just-the-docs
 url: https://learnpf.github.io
 
  
+color_scheme: dark
+
+  
+  
+callouts: 
+ note:
+    title: Practice!
+    color: green 
