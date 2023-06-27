@@ -16,7 +16,7 @@ ________________________________________________________________________________
 {: .delete}
 >Database Already Massive
 >Justin Rohrlich, 2019, "Homeland Security will soon have biometric data on nearly 260 million people," Quartz, https://qz.com/1744400/dhs-expected-to-have-biometrics-on-260-million-people-by-2022 
-
+>
 >**The** US **Department of Homeland Security** (DHS) **expects to have face, fingerprint, and iris scans of at least 259 million people** _in its biometrics database by 2022_, according to a recent presentation from the agency’s Office of Procurement Operations reviewed by Quartz. _That’s about 40 million more than the agency’s 2017 projections, which estimated 220 million unique identities by 2022_, according to previous figures cited by the Electronic Frontier Foundation (EFF), a San Francisco-based privacy rights nonprofit.  A slide deck, shared with attendees at an Oct. 30 DHS industry day, includes a breakdown of what its systems currently contain, as well as an estimate of what the next few years will bring. The agency is transitioning from a legacy system called IDENT to a cloud-based system (hosted by Amazon Web Services) known as Homeland Advanced Recognition Technology, or HART. _The biometrics collection maintained by DHS is the world’s second-largest, behind only India’s countrywide biometric ID network in size. The traveler data kept by DHS is shared with other US agencies, state and local law enforcement, as well as foreign governments._ 
 
 ___________________________________________________________________________________
