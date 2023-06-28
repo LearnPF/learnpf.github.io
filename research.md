@@ -27,7 +27,9 @@ News
 - [New York Times](https://www.nytimes.com)
 - [Washington Post](https://www.washingtonpost.com)
 - [The Guardian](https://www.theguardian.com/us)
+
 Foreign Policy
+
 - [Brookings Institute](https://www.brookings.edu)
 - [Council on Foreign Relations](https://www.cfr.org/) 
 
