@@ -33,4 +33,4 @@ When I weigh on probability, I weigh on how likely the argument is to happen. On
 
 
 
-Of course, the examples I gave in this lesson were very high level. Try to add depth to your weighing; Specifically, feature the numbers you give in Crossfire, or certain statistics that help to bolster your case. When the judge is given a number, it makes their job much easier.  
+Of course, the examples I gave in this lesson were very high level. Try to add depth to your weighing; Specifically, feature the numbers you give in Constructive, or certain statistics that help to bolster your case. When the judge is given a number, it makes their job much easier.  
